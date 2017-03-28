@@ -1,0 +1,64 @@
+#nav {
+    background-color: #ac4142;
+}
+
+
+main {
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    -ms-flex-line-pack: distribute;
+    align-content: space-around;
+}
+
+header {
+    background: #9F9F9F;
+    color: #fff;
+    text-align: right;
+    padding: 70px 10% 50px;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    -ms-flex-line-pack: distribute;
+    align-content: space-around;
+}
+
+#intro {
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+
+#skills {
+  padding: 10px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#contact {
+    background: #9F9F9F;
+    color: #fff;
+    padding: 5px 0px 5px 15px;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    -ms-flex-line-pack: distribute;
+    align-content: space-around;
+}
+
+#social a {
+  text-align: center;
+  color: #FFF;
+}
+
+main footer {
+    background: #ac4142;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+
+
